@@ -1,2 +1,20 @@
 # github-testing-clone
 Testing GitHub organization features
+
+## NOTES
+
+### Available Secrets
+
+ORG_SECRET_GLOBAL: RnebuaQBIC4OQU9IXSRU 
+ORG_SECRET_TESTING: VupsmLJHlY4DyeGKFH7J
+ORG_SECRET_TESTING_CLONE: g26I9IMcd01rwuECgwPO
+
+REPO_TESTING_SECRET: XeZXZpaFb74H0a4Cl0Cu
+REPO_TESTING_CLONE_SECRET: 9QybdWuyYYD6LQtlGbU2
+
+Extras:
+Yvc7YB9hKvwkoCmeMy3U
+GmyLs0ADH3U8sCwqelJH
+nI0t42NLkYdPpK06cpfY
+zemYd3K7ICMwwH7Me2Pt
+Lfq8UDaELQpv6UyxbcHX
