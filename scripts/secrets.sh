@@ -10,4 +10,4 @@ echo "REPO_A2_GENERAL: $REPO_A2_GENERAL"
 echo "REPO_A2_QA: $REPO_A2_QA"
 echo "REPO_A2_PROD: $REPO_A2_PROD"
 
-echo "test1"
+echo "test2"
