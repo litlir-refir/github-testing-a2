@@ -13,4 +13,4 @@ echo "REPO_A2_QA: $REPO_A2_QA"
 echo "REPO_A2_PROD: $REPO_A2_PROD"
 echo ""
 
-echo "test2"
+echo "test1"
